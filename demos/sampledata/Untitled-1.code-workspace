@@ -1,0 +1,32 @@
+{
+    "CustomerID": "TOMSP",
+    "EmployeeID": "6",
+    "OrderDate": "1996-07-05T06:39:18",
+    "RequiredDate": "1996-08-16T03:39:38",
+    "ShippedDate": "1996-07-10T14:39:39",
+    "ShipVia": "1",
+    "Freight": "11.6100",
+    "ShipName": "Toms Spezialitäten",
+    "ShipAddress": "Luisenstr. 48",
+    "ShipCity": "Münster",
+    "ShipRegion": "",
+    "ShipPostalCode": "44087",
+    "ShipCountry": "Germany",
+    "OrderDetails": {
+       "OrderDetail": [
+          {
+             "ProductID": "14",
+             "UnitPrice": "18.6000",
+             "Quantity": "9",
+             "Discount": "0"
+          },
+          {
+             "ProductID": "51",
+             "UnitPrice": "42.4000",
+             "Quantity": "40",
+             "Discount": "0"
+          }
+       ]
+    },
+    "_OrderID": "10249"
+ }
